@@ -1,9 +1,7 @@
 Hi there I'm Beyza 👋
 
 🎓 Computer Engineering student at Pamukkale University.
-
 💻 I'm interested in software techonologies and I try to improve myself.
-
 🔭 I'm interested in Machine Learning & Cloud Architecture.
 
 📫 Connect with me :
